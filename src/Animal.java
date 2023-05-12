@@ -38,5 +38,8 @@ public abstract class Animal {
 		// Dieren kunnen niet allemaal springen.
 	}
 	
+	public void run() {
+		// Decide which animals are capable of running.
+	}
 	
 }
